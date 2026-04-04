@@ -13,4 +13,4 @@ QA Automation Engineer focused on Playwright + TypeScript.
 UI automation project for a real cinema platform.
 
 ## 🎯 Goal
-Looking for QA Automation / Junior–Mid Playwright role.
+Looking for QA Automation / Mid Playwright role.
