@@ -16,5 +16,5 @@ UI automation project for a real cinema platform.
 Actively looking for a QA Automation (Playwright / TypeScript) role where I can contribute to building reliable test frameworks.
 
 ## Contact
-- LinkedIn: [ihor-aleshchenko](https://www.linkedin.com/in/ihor-aleshchenko/)
+- Linkedin: [ihor-aleshchenko](https://www.linkedin.com/in/ihor-aleshchenko/)
 - Email: ihor.aleshchenko10@gmail.com
