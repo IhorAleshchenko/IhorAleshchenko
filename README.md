@@ -13,7 +13,7 @@ QA Automation Engineer focused on Playwright + TypeScript.
 UI automation project for a real cinema platform.
 
 ## Goal
-Looking for QA Automation / Mid Playwright role.
+Actively looking for a QA Automation (Playwright / TypeScript) role where I can contribute to building reliable test frameworks.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/ihor-aleshchenko/
