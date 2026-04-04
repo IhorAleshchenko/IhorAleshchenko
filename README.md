@@ -14,3 +14,7 @@ UI automation project for a real cinema platform.
 
 ## 🎯 Goal
 Looking for QA Automation / Mid Playwright role.
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/ihor-aleshchenko/
+- Email: ihor.aleshchenko10@gmail.com
