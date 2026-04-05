@@ -21,10 +21,7 @@ UI test automation project for a real cinema platform.
 * Authentication module — completed (login, validation, registration)
 * Smoke tests — implemented (core user flows)
 * Regression tests — in progress
-* CI/CD — GitHub Actions configured (tag-based execution supported)
-
-## CI/CD
-Tests run automatically on every push via **GitHub Actions**.  
+* CI/CD — Tests run automatically on every push via **GitHub Actions**.  
 Tag-based execution is supported — test suites can be triggered by `@smoke`, `@auth`, or `@regression` tags.  
 Build status is visible via the badge above.
 
