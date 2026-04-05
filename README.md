@@ -23,17 +23,10 @@ UI test automation project for a real cinema platform.
 * Regression tests — in progress
 * CI/CD — GitHub Actions configured (tag-based execution supported)
 
-### How to run tests in CI
-
-Tests can be triggered via GitHub Actions:
-
-**Repository > cinema-city-playwright > Actions > Playwright Tests > Run workflow**
-
-You can select which test suite to run using tags:
-
-* `@smoke`
-* `@auth`
-* `@regression`
+## CI/CD
+Tests run automatically on every push via **GitHub Actions**.  
+Tag-based execution is supported — test suites can be triggered by `@smoke`, `@auth`, or `@regression` tags.  
+Build status is visible via the badge above.
 
 ## Goal
 
