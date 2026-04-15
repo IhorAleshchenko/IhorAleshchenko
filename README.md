@@ -1,6 +1,6 @@
 # Hi, I'm Ihor
 
-QA Automation Engineer focused on Playwright + TypeScript.
+QA Automation Engineer (Manual + Automation, Playwright, TypeScript)
 
 [![Playwright Tests](https://github.com/IhorAleshchenko/cinema-city-playwright/actions/workflows/playwright.yml/badge.svg)](https://github.com/IhorAleshchenko/cinema-city-playwright/actions/workflows/playwright.yml)
 
