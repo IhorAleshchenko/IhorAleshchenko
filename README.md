@@ -30,7 +30,7 @@ Build status is visible via the badge above.
 
 ## Goal
 
-Actively looking for a QA Automation Engineer (Playwright / TypeScript) role where I can contribute to building reliable test frameworks.
+Actively looking for a QA Automation Engineer (Manual + Automation, Playwright, TypeScript) role where I can contribute to building reliable test frameworks.
 
 ## Contact
 
