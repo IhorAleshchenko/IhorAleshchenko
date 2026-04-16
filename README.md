@@ -14,15 +14,18 @@ QA Automation Engineer (Manual + Automation, Playwright, TypeScript)
 ## Featured Project
 
 🔗 [cinema-city-playwright](https://github.com/ihorAleshchenko/cinema-city-playwright)
-UI test automation project for a real cinema platform.
+UI test automation project for a real cinema platform, built with a layered testing approach:
+UI smoke tests, regression tests, auth validation, HTTP-level API checks, and a custom fixture for server error monitoring.
 
 ## Project Status
 
-* Authentication module - completed (login, validation, registration)
-* Smoke tests - implemented (core user flows)
-* Regression tests - in progress
-* CI/CD - Tests run automatically on every push via **GitHub Actions**.  
-Tag-based execution is supported - test suites can be triggered by `@smoke`, `@auth`, or `@regression` tags.  
+* Authentication module — completed (login, validation, registration)
+* Smoke tests — implemented (core user flows)
+* Regression tests — in progress
+* API tests — implemented (HTTP-level page availability checks)
+* Custom fixtures — implemented (HTTP response error monitoring per test)
+* CI/CD — Tests run automatically on every push via **GitHub Actions**.  
+Tag-based execution is supported — test suites can be triggered by `@smoke`, `@auth`, `@regression`, or `@api` tags.  
 Build status is visible via the badge above.
 
 ## Goal
@@ -31,6 +34,6 @@ Actively looking for a QA Automation Engineer (Playwright / TypeScript) role whe
 
 ## Contact
 
-* Linkedin: [ihor-aleshchenko](https://www.linkedin.com/in/ihor-aleshchenko/)
+* LinkedIn: [ihor-aleshchenko](https://www.linkedin.com/in/ihor-aleshchenko/)
 * Email: [ihor.aleshchenko10@gmail.com](mailto:ihor.aleshchenko10@gmail.com)
 
